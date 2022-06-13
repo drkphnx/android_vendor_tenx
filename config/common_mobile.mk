@@ -1,5 +1,5 @@
-# Inherit common mobile Lineage stuff
-$(call inherit-product, vendor/lineage/config/common.mk)
+# Inherit common mobile Tenx stuff
+$(call inherit-product, vendor/tenx/config/common.mk)
 
 # Default notification/alarm sounds
 PRODUCT_PRODUCT_PROPERTIES += \

@@ -1,5 +1,5 @@
-# Inherit mini common Lineage stuff
-$(call inherit-product, vendor/lineage/config/common_mini.mk)
+# Inherit mini common tenx stuff
+$(call inherit-product, vendor/tenx/config/common_mini.mk)
 
 # Required packages
 PRODUCT_PACKAGES += \
